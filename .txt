@@ -1,0 +1,5 @@
+package installation 
+pip install speechrecognition pyaudio
+pip install setuptools
+pip install pyttsx3 (use for text to speech )
+pip install pocketsphinx
